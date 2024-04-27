@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "534928179591",
+    "project_id": "chat-app-83b21",
+    "storage_bucket": "chat-app-83b21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534928179591:android:be97b5f2adb344b7695322",
+        "android_client_info": {
+          "package_name": "com.example.notime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534928179591-hgm2hp0v1qsuhh0vso19ob075nmu0i9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaCkHZAyJubfX4YkIz4aF_pRp2rGg-Nos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534928179591-hgm2hp0v1qsuhh0vso19ob075nmu0i9r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "534928179591-f746t36dmlq2l16gnbv63lcgo9u4fno5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talkshawk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
