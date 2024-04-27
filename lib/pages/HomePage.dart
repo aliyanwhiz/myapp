@@ -13,7 +13,8 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
 // Suggested code may be subject to a license. Learn more: ~LicenseLog:1639854569.
       appBar: AppBar(
-        title: const Text("My App"),
+        backgroundColor: Colors.amber,
+        title: const Text("My App ultra"),
       ),
     );
   }
